@@ -1,11 +1,11 @@
 symbol: H
-name: hydrogen
+name: Hydrogen
 number: 1
 weight: 1.00784
 
 group: 1
 period: 1
-family: alkali
+family: hydrogen
 
 electron_configuration:
   - s: 1
