@@ -22,6 +22,7 @@ In its simplest form, OpenPeriodic is a compiliation of YAML files representing 
 
 #### Family
 The family of the element. The acceptable values are listed below.
+
 | Value | Description |
 | ----- | ----------- |
 | `alkali` | Alkali Metals (i.e. Metals in group 1) |
