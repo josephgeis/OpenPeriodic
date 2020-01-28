@@ -5,7 +5,11 @@ weight: 1.00784
 
 group: 1
 period: 1
+
 family: hydrogen
+block: s
+type: nonmetal
+state: gas
 
 electron_configuration:
   - s: 1
@@ -13,10 +17,10 @@ electron_configuration:
 isotopes:
   - mass: 1
     abundance: 0.9998
-    
+
   - mass: 2
     abundance: 0.0002
-    
+
   - mass: 3
     abundance: 0
     # TODO: half-life time

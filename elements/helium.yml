@@ -1,0 +1,15 @@
+symbol: He
+name: Helium
+number: 2
+weight: 4.002602
+
+group: 18
+period: 1
+
+family: nobleGas
+block: s
+type: nonmetal
+state: gas
+
+electron_configuration:
+  - s: 2
